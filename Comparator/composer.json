@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/Comparator",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Interface_3\\": "Interface",
+      "Shape_2\\": "Shape_2"
+    }
+  },
+  "require": {
+  }
+}
