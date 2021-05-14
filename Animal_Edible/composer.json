@@ -1,0 +1,22 @@
+{
+  "name": "vendor_name/Animal_Edible",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Abstract_Class\\": "Abstract_Class",
+      "Animal\\": "Animal",
+      "Fruit\\": "Fruit",
+      "Interface_List\\": "Interface"
+    }
+  },
+  "require": {
+  }
+}
