@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/Resizable",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Shape_3\\": "Shape_3",
+      "Interface_4\\": "Interface"
+    }
+  },
+  "require": {
+  }
+}
