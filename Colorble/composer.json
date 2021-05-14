@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/Colorble",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shin_bae",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Interface_5\\": "Interface",
+      "Shape_5\\": "Shape_5"
+    }
+  },
+  "require": {
+  }
+}
